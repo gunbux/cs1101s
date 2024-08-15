@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [welcome to cs1101s! 👋](README.md)
