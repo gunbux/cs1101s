@@ -5,3 +5,4 @@
 * [./studio\_3.sh](.-studio\_3.sh.md)
 * [./studio\_4.sh](.-studio\_4.sh.md)
 * [./studio\_5.sh](.-studio\_5.sh.md)
+* [./studio\_6.sh](.-studio\_6.sh.md)
