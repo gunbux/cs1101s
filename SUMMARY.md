@@ -9,3 +9,4 @@
 * [./studio\_7.sh](.-studio\_7.sh.md)
 * [./studio\_9.sh](.-studio\_9.sh.md)
 * [./studio\_10.sh](.-studio\_10.sh.md)
+* [Functions in the Environment](functions-in-the-environment.md)
