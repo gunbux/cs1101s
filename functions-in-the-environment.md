@@ -54,3 +54,5 @@ f(x => x + 4);
 </strong>// }
 // f(lambda)
 </code></pre>
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
