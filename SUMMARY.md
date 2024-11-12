@@ -12,3 +12,4 @@
 * [./studio\_11.sh](.-studio\_11.sh.md)
 * [Functions in the Environment](functions-in-the-environment.md)
 * [studio\_12.sh](studio\_12.sh.md)
+* [./studio\_13.sh](.-studio\_13.sh.md)
